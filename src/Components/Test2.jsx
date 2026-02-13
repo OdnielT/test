@@ -3,6 +3,7 @@ import styled from "styled-components";
 function Test2() {
     return ( <Test2Style>
         <h1>Hello Odniel</h1>
+        <h1>God's Lion</h1>
     </Test2Style> );
 }
 
